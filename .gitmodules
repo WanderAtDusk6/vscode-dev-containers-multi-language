@@ -1,24 +1,31 @@
 [submodule "python"]
 	path = python
 	url = https://github.com/microsoft/vscode-remote-try-python
+	branch = main
 [submodule "java"]
 	path = java
 	url = https://github.com/microsoft/vscode-remote-try-java
+	branch = main
 [submodule "node"]
 	path = node
 	url = https://github.com/microsoft/vscode-remote-try-node
+	branch = main
 [submodule "go"]
 	path = go
 	url = https://github.com/microsoft/vscode-remote-try-go
 [submodule "dotnet"]
 	path = dotnet
 	url = https://github.com/microsoft/vscode-remote-try-dotnet
+	branch = main
 [submodule "rust"]
 	path = rust
 	url = https://github.com/microsoft/vscode-remote-try-rust
+	branch = main
 [submodule "cpp"]
 	path = cpp
 	url = https://github.com/microsoft/vscode-remote-try-cpp
+	branch = main
 [submodule "php"]
 	path = php
 	url = https://github.com/microsoft/vscode-remote-try-php
+	branch = main
